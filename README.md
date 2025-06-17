@@ -1,5 +1,7 @@
 # ShowerGenius 🚿💡
 
+> **Bolt.new Hackathon 2025 Submission** 🏆
+
 Transform your fleeting shower thoughts into AI-powered insights! ShowerGenius captures those brilliant ideas that strike when you least expect them and expands them into different creative formats.
 
 ## ✨ Features
@@ -156,6 +158,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
+- **Bolt.new** for hosting the amazing 2025 Hackathon and inspiring rapid prototyping
 - **Groq** for providing free AI API access
 - **Browser vendors** for implementing speech synthesis
 - **React team** for the amazing framework
